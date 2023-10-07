@@ -1,0 +1,22 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#8feadb",
+    "titleBar.activeForeground": "#FFFFFF",
+    "titleBar.inactiveBackground": "#8feadb",
+    "titleBar.inactiveForeground": "#FFFFFF",
+    "titleBar.border": "#8feadb",
+    "activityBar.background": "#8feadb",
+    "activityBar.foreground": "#FFFFFF",
+    "statusBar.background": "#8feadb",
+    "statusBar.foreground": "#FFFFFF",
+    "statusBar.debuggingBackground": "#8feadb",
+    "statusBar.debuggingForeground": "#FFFFFF",
+    "tab.activeBorder": "#8feadb",
+    "iLoveWorkSpaceColors": true,
+    "iLoveWorkSpaceRandom": false
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
+}
